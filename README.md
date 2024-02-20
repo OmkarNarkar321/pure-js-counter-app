@@ -1,4 +1,13 @@
-# Output
+Codes :
+
+HTML Code :
+![image](https://github.com/OmkarNarkar321/pure-js-counter-app/assets/159636724/17b299b4-584b-4d3c-8964-d3ff2a9fadc3)
+CSS :
+![image](https://github.com/OmkarNarkar321/pure-js-counter-app/assets/159636724/40def53e-4c40-4a8b-9f69-df7152baa2db)
+JS :
+![image](https://github.com/OmkarNarkar321/pure-js-counter-app/assets/159636724/032a621c-08b3-4aa3-8bb4-7b6487eff54c)
+
+# OutPut : 
 1/6
 ![1](https://github.com/OmkarNarkar321/pure-js-counter-app/assets/159636724/31a6f32a-e517-4e4b-812f-8acd74011a54)
 2/6
